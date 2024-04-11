@@ -1,0 +1,17 @@
+const heroImage={
+    name:'heroImage',
+    title:'Hero Image',
+    type:'string',
+    fields:[{
+        name:'image1',
+        title:'First Image',
+        type:'image',
+    },
+    {
+        name:'image2',
+        title:'Second Image',
+        type:'image',
+    }]
+}
+
+export default heroImage
