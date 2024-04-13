@@ -1,7 +1,7 @@
 const heroImage={
     name:'heroImage',
     title:'Hero Image',
-    type:'string',
+    type:'document',
     fields:[{
         name:'image1',
         title:'First Image',
